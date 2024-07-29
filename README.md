@@ -1,7 +1,8 @@
-Project Description: Node.js Authentication Web Service
+**Project Description**
 This project is a Node.js-based authentication web service designed to handle user authentication and data retrieval from a MySQL database. It uses the Express framework for handling HTTP requests and the MySQL module for database interactions. The web service provides endpoints for user authentication, fetching user details by API key, and loading user-specific data.
 
-Key Features:
+**Key Features:**
+
 1. MySQL Connection:
 The mysql module is used to create a connection to the MySQL database.
 Connection details (host, user, password, and database) are specified, and the connection is established with error handling.
